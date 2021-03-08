@@ -8,6 +8,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+
 Sample code
 ```
 alert( 'Hello world!' );
@@ -17,4 +18,5 @@ Education.
 2. Online JSexpert "Easy JavaScript"
 3. Udemy "The Complete JavaScript Course"
 4. It-Incubator "React" 
+
 ####English language: A2
