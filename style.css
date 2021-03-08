@@ -1,14 +1,14 @@
-
-header, main{
+header, main, footer{
     width: 800px;
     margin: 0 auto;
     text-align: center;
-    background-color: cornsilk;
+    background:  cornsilk;
 }
 
 img{
     max-width: 200px;
     max-height: 300px;
+    border-radius: 20px;
 }
 
 ul li {
@@ -20,6 +20,12 @@ h1{
     padding: 20px;
 }
 
-h4 {
-    margin-bottom: 5px;
+h4 h3{
+    padding-bottom: 5px;
+    margin-bottom: 0;
+}
+
+footer{
+    margin-top: 0px;
+    padding-top: 20px;
 }
